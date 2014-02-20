@@ -2,6 +2,11 @@ Android-MechanicalTimetable
 ===========================
 
 Creating an Android mechanical timetable 
-(like in the airports departures and arrivals boards)
+(That are in airports and train stations to announce departures and arrivals)
+
+Also know as:
+-Solari Board
+-Mechanical Timetable
+-Flap Board
 
 
